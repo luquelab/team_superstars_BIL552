@@ -1,6 +1,4 @@
 title: Superstars
-   description: My project documentation
-   remote_theme: just-the-docs/just-the-docs
-   
-   # Enables search on your site
-   search_enabled: true
+description: My project documentation
+remote_theme: just-the-docs/just-the-docs
+search_enabled: true
