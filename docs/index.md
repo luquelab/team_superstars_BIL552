@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Home
-nav_order: 1
+layout: home
 ---
 
 # Welcome to the Superstars Team Pipeline
