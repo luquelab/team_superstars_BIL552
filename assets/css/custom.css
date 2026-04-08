@@ -1,0 +1,35 @@
+/* Change the top navigation bar color */
+.site-header {
+  background-color: #0a0a2e !important;
+  border-bottom: 2px solid #7b2fff !important;
+}
+
+/* Change the sidebar color */
+.side-bar {
+  background-color: #0d0d3b !important;
+}
+
+/* Change sidebar link colors */
+.nav-list .nav-list-item .nav-list-link {
+  color: #c8b8ff !important;
+}
+
+/* Change the main text area background */
+.main-content-wrap {
+  background-color: #07071a !important;
+}
+
+/* Change heading colors */
+h1, h2, h3 {
+  color: #a78bfa !important;
+}
+
+/* Change body text color */
+body {
+  color: #e0e0ff !important;
+}
+
+/* Change link colors */
+a {
+  color: #7b2fff !important;
+}
