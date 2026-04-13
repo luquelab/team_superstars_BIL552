@@ -4,6 +4,8 @@ title: Home
 nav_order: 1
 ---
 
+![Superstars Pipeline]({{ site.baseurl }}/docs/31747695_s4k6_pdjv_220810.jpg)
+
 # Welcome to the Superstar Pipeline Page
 
 This site documents our bioinformatics pipeline for the analysis of cathepsin protein sequences from *Mnemiopsis leidyi*, a comb jelly native to the western Atlantic Ocean.
@@ -20,10 +22,11 @@ All analyses are implemented in **Python** and run on **Google Colab**, making t
 
 ## Quick Links
 
-- [Overview](overview.md) — Background and goals of the project
-- [Pipeline](pipeline.md) — Step-by-step walkthrough of the notebook
-- [Team](team.md) — Meet the Superstars
-- [Collab Script] - Access to pipeline jupyter notebook
+- [Overview]({{ site.baseurl }}/overview) — Background and goals of the project
+- [Pipeline]({{ site.baseurl }}/pipeline) — Step-by-step walkthrough of the notebook
+- [Team]({{ site.baseurl }}/team) — Meet the Superstars
+- [Collab Script](https://colab.research.google.com/your-notebook-link) — Access to pipeline Jupyter notebook
+
 ---
 
 ## Getting Started
