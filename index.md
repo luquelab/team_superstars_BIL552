@@ -23,7 +23,7 @@ All analyses are implemented in **Python** and run on **Google Colab**, making t
 - [Overview](overview.md) — Background and goals of the project
 - [Pipeline](pipeline.md) — Step-by-step walkthrough of the notebook
 - [Team](team.md) — Meet the Superstars
-
+- [Collab Script] - Access to pipeline jupyter notebook
 ---
 
 ## Getting Started
