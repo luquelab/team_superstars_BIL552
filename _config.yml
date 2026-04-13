@@ -1,6 +1,27 @@
-title: Superstars
-description: My project documentation
+title: Superstars Team Pipeline
+description: A bioinformatics pipeline for analyzing Mnemiopsis leidyi cathepsin protein sequences.
 remote_theme: just-the-docs/just-the-docs
+
+# URL settings - update these to match your GitHub repo
+url: "https://luquelab.github.io"
+baseurl: "/team_superstars_BIL552"
+
+# Just the Docs settings
+color_scheme: light
 search_enabled: true
-url: https://luquelab.github.io/team_superstars_BIL552/Examples.html
-baseurl:"/team_superstars_BIL552/_config.yml" 
+heading_anchors: true
+
+nav_sort: order
+
+footer_content: "Superstars Team 2026"
+
+# Aux links - appears top-right
+aux_links:
+  "GitHub Repo": "https://github.com/yourusername/your-repo-name"
+
+aux_links_new_tab: true
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
