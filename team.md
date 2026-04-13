@@ -21,7 +21,7 @@ Akili is a graduate researcher specializing in coral cell immunology and -omics 
 
 ## Bridget
 
-**Role:** 
+**Role:** Insert role
 
 insert description
 
