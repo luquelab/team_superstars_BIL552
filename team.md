@@ -29,9 +29,9 @@ insert description
 
 ## Gracie
 
-**Role:** 
+**Role:** Evolutionary-developmental Biologist
 
-insert description
+Gracie is a graduate researcher focusing on the evolution and diversification of leukocyte-like innate immune cells in early animals. She hopes to leverage her background in philosophy to draw more conceptual conclusions from this bioinformatics work on protein evolution and function. 
 
 ---
 
