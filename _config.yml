@@ -7,7 +7,7 @@ url: "https://luquelab.github.io"
 baseurl: "/team_superstars_BIL552"
 
 # Just the Docs settings
-color_scheme: light
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 
