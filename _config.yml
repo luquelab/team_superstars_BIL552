@@ -2,3 +2,5 @@ title: Superstars
 description: My project documentation
 remote_theme: just-the-docs/just-the-docs
 search_enabled: true
+url: https://luquelab.github.io/team_superstars_BIL552/Examples.html
+baseurl:"/team_superstars_BIL552/_config.yml" 
