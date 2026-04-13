@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to the Superstars Team Pipeline
+# Welcome to the Superstar Pipeline Page
 
 This site documents our bioinformatics pipeline for the analysis of cathepsin protein sequences from *Mnemiopsis leidyi*, a comb jelly native to the western Atlantic Ocean.
 
