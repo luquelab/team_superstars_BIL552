@@ -2,8 +2,6 @@ title: Superstars Pipeline
 description: A bioinformatics pipeline for analyzing Mnemiopsis leidyi cathepsin protein sequences.
 remote_theme: just-the-docs/just-the-docs
 
-![Superstars Pipeline](https://your-image-host.com/your-image.gif)
-
 # URL settings - update these to match your GitHub repo
 url: "https://luquelab.github.io"
 baseurl: "/team_superstars_BIL552"
