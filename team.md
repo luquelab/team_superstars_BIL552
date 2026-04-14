@@ -5,7 +5,6 @@ nav_order: 4
 ---
 
 # Meet the Superstars Team
-{: .no_toc }
 
 Our team brings together expertise in marine biology, computational biology, and bioinformatics to investigate protein evolution in early-branching animals.
 
