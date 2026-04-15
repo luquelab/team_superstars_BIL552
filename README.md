@@ -8,6 +8,6 @@ A Google Colab-based pipeline for analyzing protein sequences (example: *Mnemiop
 
 **GitHub Pages:** https://luquelab.github.io/team_superstars_BIL552/
 
-**Collab Script:** https://colab.research.google.com/github/luquelab/team_superstars_BIL552/blob/Start-Point/Bionformatic_Pipeline.ipynb — Access to pipeline Jupyter notebook
+**Collab Script:** https://colab.research.google.com/github/luquelab/team_superstars_BIL552/blob/Start-Point/Bionformatic_Pipeline.ipynb 
 
 ---
