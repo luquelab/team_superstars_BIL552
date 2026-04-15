@@ -24,7 +24,7 @@ A Google Colab-based pipeline for analyzing protein sequences from *Mnemiopsis l
 
 ---
 
-## Overview
+## Example: M.leidyi
 
 This pipeline takes protein sequences in FASTA format and produces:
 
