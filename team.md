@@ -37,9 +37,9 @@ Gracie is a graduate researcher focusing on the evolution and diversification of
 
 ## Mariana
 
-**Role:** 
+**Role:** Psychology and Computer Science Student
 
-insert description
+Mariana is an undergraduate doing research in traumatic spinal cord injury who aspires to do a PhD in Neuropsychology. With a background in psychology and computer science, she is interested in using computational approaches to better understand complex biological systems  
 
 ---
 
