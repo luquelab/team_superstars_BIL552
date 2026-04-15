@@ -21,9 +21,9 @@ Akili is a graduate researcher specializing in coral cell immunology and -omics 
 
 ## Bridget
 
-**Role:** Insert role
+**Role:** Phage Therapy Researcher
 
-insert description
+Bridget is an undergraduate studying Microbiology and Immunology. When she is not involved in her classes, she is working at Tolka AI Therapeutics, working to deliver phage therapy to patients who need it. She hopes to attend medical school in Summer 2027. 
 
 ---
 
