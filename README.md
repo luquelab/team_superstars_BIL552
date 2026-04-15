@@ -6,7 +6,7 @@ A Google Colab-based pipeline for analyzing protein sequences from *Mnemiopsis l
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Example: M.leidyi](#overview)
 - [Requirements](#requirements)
 - [Input Data](#input-data)
 - [Pipeline Stages](#pipeline-stages)
