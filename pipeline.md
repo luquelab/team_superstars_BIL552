@@ -7,7 +7,7 @@ nav_order: 3
 # Pipeline
 {: .no_toc }
 
-A step-by-step walkthrough of the *Mnemiopsis* cathepsin [analysis notebook](https://github.com/luquelab/team_superstars_BIL552/blob/main/docs/Mnemiopsis_cathepsin_subset.fasta). Run all cells **in order** — each stage depends on variables set in the previous step.
+A step-by-step walkthrough of the *Mnemiopsis* cathepsin [analysis notebook](https://github.com/luquelab/team_superstars_BIL552/blob/dfe93858b67e8f7b7f81443bcc7ea98adc0acb94/Bionformatic_Pipeline_Superstars.ipynb). Run all cells **in order** — each stage depends on variables set in the previous step.
 
 <details open markdown="block">
   <summary>Table of contents</summary>
